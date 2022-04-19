@@ -1,5 +1,6 @@
 import { Button, Heading, Flex } from '@chakra-ui/react';
 
+
 export function Error(): JSX.Element {
   return (
     <Flex
